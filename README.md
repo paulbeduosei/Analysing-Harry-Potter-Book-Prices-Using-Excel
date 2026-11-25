@@ -41,6 +41,6 @@ The Book Emporium wants to set a profit-maximizing price for a new Harry Potter 
 - Competitor pricing (e.g., Amazon, Barnes & Noble)
 - Customer demographics
 - Shipping, marketing, and operating costs for a more complete profit estimate
-- 
+ 
 # Tools
 Microsoft Excel (Regression, Solver, Conditional Formatting), Microsoft Word
